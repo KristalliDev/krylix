@@ -20,7 +20,7 @@ export default defineAppConfig({
       credits: {
         text: 'Real Fake News',
         enabled: true, // possible value are : true | false
-        repository: 'https://www.github.com/KristalliDev/krylixs' // our github repository
+        repository: 'https://www.github.com/KristalliDev/krylix' // our github repository
       },
       navigation: true, // possible value are : true | false
       alignment: 'center', // possible value are : 'none' | 'left' | 'center' | 'right'
