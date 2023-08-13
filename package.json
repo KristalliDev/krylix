@@ -2,7 +2,7 @@
   "name": "krylix",
   "private": true,
   "scripts": {
-    "dev": "pnpm lint && nuxi dev",
+    "dev": "pnpm lint && nuxi dev -o",
     "prod": "eslint . && nuxi build && nuxi generate && nuxi preview",
     "build": "nuxi build",
     "generate": "nuxi generate",
