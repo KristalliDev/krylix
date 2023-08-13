@@ -5,10 +5,10 @@ export default defineTheme({
     body: {
       // Update the background color in light & dark mode
       backgroundColor: {
-        initial: '#f8fafc',
-        dark: '#000000',
+        initial: '#ffffff',
+        dark: '#1e1e2e',
         light: '#fffef3'
-      }
-    }
+      },
+    },
   }
 })

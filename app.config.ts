@@ -37,6 +37,10 @@ export default defineAppConfig({
     },
     form: {
       successMessage: "Message Sent. You're Welcome!"
+    },
+    backToTop: {
+      text: 'Back To Top',
+      icon: 'material-symbols:arrow-upward'
     }
   }
 })
