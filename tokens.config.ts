@@ -6,8 +6,8 @@ export default defineTheme({
       // Update the background color in light & dark mode
       backgroundColor: {
         initial: '#f8fafc',
-        dark: '#0f172a',
-        light: '#f8fafc'
+        dark: '#000000',
+        light: '#fffef3'
       }
     }
   }
